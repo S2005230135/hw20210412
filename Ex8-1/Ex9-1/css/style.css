@@ -1,0 +1,22 @@
+h4{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+table{
+    table-layout:fixed;
+}
+
+td{
+    height: 32px;
+    text-align: center;
+}
+
+.zi{
+    writing-mode: tb-rl;
+    letter-spacing: 20px;
+}
+
+

@@ -1,0 +1,124 @@
+body{
+    font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    margin: 0;
+    background: url(../img/background.png) no-repeat;
+}
+
+.bo{
+    width: 1920px;
+}
+
+.boo{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+    text-align: left;
+    line-height: 30px;
+}
+
+a{
+    padding-left: 15px;
+    color: #999999;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+
+}
+
+.aoo{
+    float: left;
+    width: 1200px;
+    height: 30px;
+}
+
+ul{
+    padding-top: 20px;
+    width: 705px;
+    height: 12px;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+.co{
+    padding-right: 5px;
+    color: #ff0000;
+}
+
+.co1 span{
+    color: #ff0000;
+}
+
+.xiala1 span{
+    color: #ff0000;
+}
+
+li a, .xiala1{
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+}
+
+li a:hover, .xiala:hover, .xiala1{
+    color:red;
+}
+
+.xiala{
+    display:inline-block;
+}
+
+.xiala2{
+  display:none;
+  position:absolute;
+  background-color:#f9f9f9;
+  height: 180px;
+  width:300px;
+  box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.xiala2 a{
+    text-align: left;
+    padding:3px 16px;
+    text-decoration:none;
+    display:block;
+}
+
+.xiala2 a:hover{
+    background-color: #f1f1f1
+}
+
+.xiala:hover .xiala2{
+  display:block;
+}
+
+.zi1{
+    width: 150px;
+    height: 80px;
+    float: left;
+}
+
+.zi2{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+.zi3{
+    width: 150px;
+    height: 80px;
+    float: left;
+}
+
+.zi4{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+
+.dixian{
+    width: 300px;
+    height: 110px;
+    border: 1px solid #ccc;
+}
